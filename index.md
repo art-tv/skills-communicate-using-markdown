@@ -2,6 +2,10 @@
 ### is Artem
 ###### I want to pass exam
 
+- [ ] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
+
 ![AWS logo](https://www.simplilearn.com/ice9/banners/free_resources_banners/lead_banners/DevOps_Engineering_on_AWS.png)
 
 ``` python
